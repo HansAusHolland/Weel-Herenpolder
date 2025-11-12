@@ -16,7 +16,7 @@ Wij vragen ons af wat daar de reden van kan zijn.
 
 **Stelling**: De grote schommelingen in de vogeltellingen in de Weel in de Heerenpolder worden voornamelijk veroorzaakt door menselijke factoren, niet door daadwerkelijke populatieveranderingen. 
 
-**Onderbouwing**: Dit wordt ondersteund door de landelijke en provinciale datasets van Sovon, waarin naar voren komt dat het aantal soorten en de soortenrijkdom van vogels in de provincie Zeeland de laatste jaren juist toenemen. Als de populaties regionaal groeien, zijn de sterke dalingen in de Weel onwaarschijnlijk het gevolg van ecologische factoren.
+**Onderbouwing**: Dit wordt ondersteund door de landelijke en provinciale datasets van Sovon, alsmede de open dataset van de provincie Zeeland, waarin naar voren komt dat het aantal soorten en de soortenrijkdom van vogels in de provincie Zeeland de laatste jaren juist toenemen. Als de populaties regionaal groeien, zijn de sterke dalingen in de Weel onwaarschijnlijk het gevolg van ecologische factoren.
 
 **Te onderzoeken**: 
 - Consistentie van telmethoden in de Weel
